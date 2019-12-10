@@ -1,0 +1,30 @@
+{
+  "name": "@username/repo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/repo.git"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-coffee": "^3.0.3"
+  },
+  "bugs": {
+    "url": "https://github.com/username/repo/issues"
+  },
+  "homepage": "https://github.com/username/repo#readme",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "sugar": "^2.0.6"
+  }
+}
