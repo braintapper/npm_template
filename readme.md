@@ -1,6 +1,12 @@
 # NPM Template
 
-Just a nearly empty template for creating NPMs.
+Just a nearly empty template for creating NPMs for Coffeescript coders.
+
+Put your coffeescript code in `src/npm`
+
+Put your test code in `src/tests`
+
+Use `gulp watch` to compile.
 
 ## Usage
 
